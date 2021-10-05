@@ -60,4 +60,24 @@ config:
 This option is created to change the prefix of each ad, for example if the plugin gives 
 the ad by default it will be like this:
 
-**[UReminder] Memocracken its the best**
+**[UReminder] Memocracken its the best because its my creator!**
+
+In the configuration you can change this method, this is an example:
+
+**[DMC] Memocracken its the best because its my creator!**
+
+```
+config:
+  prefix: "&f[&6UReminder&f] "
+```
+
+And if it were the second option it would be like this:
+
+```
+config:
+  prefix: "&f[&DMC&f] "
+```
+
+and so on for any prefix you want.
+
+- Cooldown
