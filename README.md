@@ -51,5 +51,13 @@ This option is created to enable or disable the pluing action
 
 ```
 config:
+  # true > Plugin Working / false > The plugin will not be working
   enable: true
 ```
+
+- Prefix
+
+This option is created to change the prefix of each ad, for example if the plugin gives 
+the ad by default it will be like this:
+
+**[UReminder] Memocracken its the best**
