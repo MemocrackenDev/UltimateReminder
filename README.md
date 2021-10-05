@@ -9,6 +9,9 @@
     <a href="https://discord.gg/yNnnkRfavm" alt="discord">
         <img src="https://img.shields.io/discord/894059728714489856?color=b&label=Discord"/>
     </a>
+    <a href="https://twitter.com/memocrackenxd" alt="Twitter">
+      <img src="https://img.shields.io/twitter/follow/memocrackenxd?style=social"/>  
+    </a>
 </p>
 
 # Why UltimateReminder?
