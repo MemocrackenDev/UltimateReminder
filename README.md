@@ -5,10 +5,11 @@
   <img src="/ureminder.png" alt="Ureminder Logo" width="350">
   <br>
 </h1>
-
+<p align="center">
     <a href="https://discord.gg/4Qk5kBT9UX" alt="discord">
         <img src="https://img.shields.io/discord/480068531132563476?label=chat&logo=discord"/>
     </a>
+</p>
 
 # Why UltimateReminder?
 
