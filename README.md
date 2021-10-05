@@ -42,3 +42,14 @@ UltimateReminder is a Minecraft plugin to give messages from time to time, this 
 can be very useful if you want a server with constant memories.
 
 # Config.yml Help
+
+Looking for help with setup? You are in the right place
+
+- Enable or Disable
+
+This option is created to enable or disable the pluing action
+
+```
+config:
+  enable: true
+```
