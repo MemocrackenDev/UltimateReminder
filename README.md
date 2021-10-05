@@ -82,8 +82,51 @@ and so on for any prefix you want.
 
 - Cooldown
 
-The Cooldown is created to pause between ads, for example so that all the ads do 
+The Cooldown is created to pause between Reminders, for example so that all the Reminders do 
 not appear at the same time (in an endless loop) I put a default cooldown of one 
 minute, you can change it in the configuration to make it more manipulable
 
 ***Note:*** *Soon I will change this but for example if you want to put a second you have to put it with an extra zero, for example if I want to put a minute and thirty seconds I would have to put "900" in the cooldown section, it can be confusing but that's the way in which we handle this, another example is that if I want to put thirty seconds then I have to put "300", the same for two minutes: "1200", if you have doubts do not hesitate to tell me through Discord*
+
+```yml
+config:
+  cooldown: 600 # > 1 minute / 1200 > 2 minutes / Etc.
+```
+This can be changed freely but always remember to put a zero, I explain this in detail in the note above.
+
+- Random Messages
+
+This area is the most important part of the plugin since here are the Reminders that are placed on the server from time to time
+
+If you want to know how it works because you are in the right place, this area is easy to use to create one manually (from config.yml) you just have to put a "-" below the reminders created by default (you can delete them) 
+
+```yml
+config:
+    Random-Messages: 
+    # Default messages (You can delete/edit them)
+    
+    - "&3%Player% remember to have some fun with the &6server name&3!"
+    - "&3Remember that hacks are not tolerated in &6Server Name"
+    - "&3&lRemember to invite your friends!"
+    
+    # The characters below are created by the command "/ureminder create" or by someone else
+    
+    - "&3This is a Test! &lJoin to my Discord server!"
+```
+
+but yes you do not understand that function well just put in the chat of your server 
+
+```
+/ureminde
+r create Your-Arguments
+```
+
+If you wonder where these arguments are located then the answer is in "config.yml", in the same area of "Random-Messages" every time that command is executed it will change and put what you put, remember that they work the same the color codes in yml
+
+# You have more questions?
+
+You can ask us any questions on our Discord server and we will answer them with pleasure!
+
+# Error or bug?
+
+If you found any error or bug, we would appreciate if you tell us what the error is, you can contact us on Twitter or Discord
