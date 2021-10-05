@@ -49,7 +49,7 @@ Looking for help with setup? You are in the right place
 
 This option is created to enable or disable the pluing action
 
-```
+```yml
 config:
   # true > Plugin Working / false > The plugin will not be working
   enable: true
@@ -66,14 +66,14 @@ In the configuration you can change this method, this is an example:
 
 **[DMC] Memocracken its the best because its my creator!**
 
-```
+```yml
 config:
   prefix: "&f[&6UReminder&f] "
 ```
 
 And if it were the second option it would be like this:
 
-```
+```yml
 config:
   prefix: "&f[&DMC&f] "
 ```
