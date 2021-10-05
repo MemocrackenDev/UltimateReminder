@@ -8,6 +8,7 @@
 
     <a href="https://discord.gg/4Qk5kBT9UX" alt="discord">
         <img src="https://img.shields.io/discord/480068531132563476?label=chat&logo=discord"/>
+    </a>
 
 # Why UltimateReminder?
 
