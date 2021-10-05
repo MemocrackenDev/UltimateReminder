@@ -12,6 +12,9 @@
     <a href="https://twitter.com/memocrackenxd" alt="Twitter">
       <img src="https://img.shields.io/twitter/follow/memocrackenxd?style=social"/>  
     </a>
+   <a href="https://github.com/MemocrackenDev" alt="Twitter">
+      <img src="https://img.shields.io/github/followers/MemocrackenDev?style=social"/>  
+    </a>
 </p>
 
 # Why UltimateReminder?
