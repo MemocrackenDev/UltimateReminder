@@ -81,3 +81,9 @@ config:
 and so on for any prefix you want.
 
 - Cooldown
+
+The Cooldown is created to pause between ads, for example so that all the ads do 
+not appear at the same time (in an endless loop) I put a default cooldown of one 
+minute, you can change it in the configuration to make it more manipulable
+
+***Note:*** *Soon I will change this but for example if you want to put a second you have to put it with an extra zero, for example if I want to put a minute and thirty seconds I would have to put "900" in the cooldown section, it can be confusing but that's the way in which we handle this, another example is that if I want to put thirty seconds then I have to put "300", the same for two minutes: "1200", if you have doubts do not hesitate to tell me through Discord*
