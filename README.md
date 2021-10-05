@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="/ureminder.png" alt="Ureminder Logo" width="256">
+  <img src="/ureminder.png" alt="Ureminder Logo" width="350">
   <br>
 </h1>
 
