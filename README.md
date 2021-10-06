@@ -43,6 +43,10 @@ can be very useful if you want a server with constant memories.
 
 # Config.yml Help
 
+<p align="center">
+    a
+</p>
+
 Looking for help with setup? You are in the right place
 
 - Enable or Disable
