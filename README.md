@@ -119,8 +119,7 @@ config:
 but yes you do not understand that function well just put in the chat of your server 
 
 ```
-/ureminde
-r create Your-Arguments
+/ureminder create Your-Arguments
 ```
 
 If you wonder where these arguments are located then the answer is in "config.yml", in the same area of "Random-Messages" every time that command is executed it will change and put what you put, remember that they work the same the color codes in yml
