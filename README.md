@@ -43,8 +43,7 @@ can be very useful if you want a server with constant memories.
 
 # Config.yml Help
 
-### Config.yml Default Config
-https://ghbtns.com
+[Config.yml Default Config](https://github.com/MemocrackenDev/UltimateReminder/blob/main/configdefault.yml)
 
 Looking for help with setup? You are in the right place
 
