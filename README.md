@@ -44,7 +44,8 @@ can be very useful if you want a server with constant memories.
 # Config.yml Help
 
 <p align="center">
- [Config.yml Default Config](https://ghbtns.com)
+ ### Config.yml Default Config
+  https://ghbtns.com
 </p>
 
 Looking for help with setup? You are in the right place
