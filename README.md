@@ -41,6 +41,20 @@ Here is a list of the good things about UltimateReminder:
 UltimateReminder is a Minecraft plugin to give messages from time to time, this tool 
 can be very useful if you want a server with constant memories.
 
+# Permissions
+
+Are you looking for the permissions for each command? 
+
+This is your right place!
+
+***Note:** Remember that with Operator permissions you can have access to these commands without problems*
+
+Reload Permission:
+
+```
+ultimatereminder.perms.reload
+```
+
 # Config.yml Help
 
 [Config.yml Default Config](https://github.com/MemocrackenDev/UltimateReminder/blob/main/configdefault.yml)
