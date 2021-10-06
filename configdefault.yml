@@ -1,0 +1,10 @@
+# Config.yml Default Config
+
+Config:
+    enable: true 
+    prefix: "&f[&6UReminder&f] " 
+    cooldown: 30
+    Random-Messages: 
+    - "&3%Player% remember to have some fun with the &6server name&3!"
+    - "&3Remember that hacks are not tolerated in &6Server Name"
+    - "&3&lRemember to invite your friends!"
