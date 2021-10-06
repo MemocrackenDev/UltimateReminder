@@ -55,6 +55,24 @@ Reload Permission:
 ultimatereminder.perms.reload
 ```
 
+Create Permission:
+
+```
+ultimatereminder.perms.create
+```
+
+Delete Permission:
+
+```
+ultimatereminder.perms.delete
+```
+
+List Permission:
+
+```
+ultimatereminder.perms.list
+```
+
 # Config.yml Help
 
 [Config.yml Default Config](https://github.com/MemocrackenDev/UltimateReminder/blob/main/configdefault.yml)
